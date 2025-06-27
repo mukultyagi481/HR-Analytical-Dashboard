@@ -53,14 +53,9 @@ Final Dashboard File: HR Analytical Dashboard_Mukul.xlsx
 Static Dashboard Preview: HR Analytical Dashboard_MUKUL.png
 
 # 🗃️ Project Structure
-bash
-Copy
-Edit
-📁 HR-Analytics-Dashboard
-├── 📊 HR_RawData.xlsx                        # Raw employee attrition data
-├── 📊 HR Analytical Dashboard_Mukul.xlsx     # Final dashboard with slicers and charts
-├── 🖼️ HR Analytical Dashboard_MUKUL.png       # Image preview of the dashboard
-└── 📄 README.md                              # Project documentation
+![image](https://github.com/user-attachments/assets/fe0b4aca-da72-471e-b720-5c27a87c536f)
+
+
  
 # 💼 Business Value
 With this dashboard, organizations can:
